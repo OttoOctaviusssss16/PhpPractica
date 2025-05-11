@@ -18,7 +18,7 @@ $persona = [
 //Arraylist Multidimensional
 //Arraylist que contiene múltiples Arraylist dentro de si
 //Ejemplo
-<?php
+
 $personas = [
     ["nombre" => "Toto", "edad" => 30],
     ["nombre" => "Ana", "edad" => 25],
@@ -30,6 +30,5 @@ foreach ($personas as $persona) {
 }
 ?>
 
-?>
 
 
