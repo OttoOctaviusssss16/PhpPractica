@@ -1,5 +1,6 @@
 <?php
 //String básico y definición de variables (no tipadas)
+//Ejemplo
 echo "Hola Guaco Podrido<br>";
 $nombre = "Octavio";
 $apellido = "Scabino";
